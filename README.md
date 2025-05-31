@@ -1,3 +1,10 @@
+# About this fork:
+For my convenience, here's the command which installs the necessary dependencies for running gentoo-install from Debian.
+```
+sudo apt install git libncurses-dev rhash ntp util-linux-extra dialog
+```
+
+
 ## About gentoo-install
 
 This project aspires to be your favourite way to install gentoo.
