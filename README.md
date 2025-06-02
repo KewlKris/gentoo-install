@@ -1,7 +1,7 @@
 # About this fork:
 For my convenience, here's the command which installs the necessary dependencies for running gentoo-install from Debian.
 ```
-sudo apt install git libncurses-dev rhash ntp util-linux-extra dialog
+sudo apt install git libncurses-dev rhash ntp util-linux-extra dialog uuid-runtime
 ```
 
 
